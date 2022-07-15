@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "dad": "apps/dad",
+    "dad-e2e": "apps/dad-e2e",
+    "son": "apps/son",
+    "son-e2e": "apps/son-e2e"
+  }
+}
